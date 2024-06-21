@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zinch
-- 👀 I’m interested in Web technologies
-- 🌱 I’m currently learning Golang and AWS
+- 👀 I’m interested in cloud technologies
+- 🌱 I’m currently writing Java and learning AWS
 - 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me: mr.zinch at pm.me
 
